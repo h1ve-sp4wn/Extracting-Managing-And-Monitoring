@@ -1,0 +1,1 @@
+pip install aiohttp redis celery clickhouse-driver prometheus_client
