@@ -1,2 +1,1 @@
-# Extracting-Managing-And-Monitoring
-Github actions and events.
+See dependencies file.
